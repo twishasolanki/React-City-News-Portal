@@ -1,0 +1,75 @@
+[
+    {
+        "Id":1,
+        "subtitle":"Skoda Octavia PRODUCTION 🚗 Car Factory MANUFACTURING Process",
+        "description":"2023 Skoda Octavia Production. Inside the Skoda car factory and CNC Production Machine. Assembly Line Inside mega Factory Skoda: Manufactory and CNC Robots.",
+        "video":"https://www.youtube.com/embed/RrQt-eVW79w",
+        "image":"auto.png",
+        "name":"Rajkot",
+        "imgfb":"facebook1.png",
+        "linkfb":"https://www.facebook.com",
+        "imgtw":"twitter.png",
+        "linktw":"https://www.twitter.com",
+        "imgcopy":"cp1.png",
+        "copylink":"https://www.youtube.com/watch?v=7MrwhGPk3pg"
+    },
+    {
+        "Id":2,
+        "subtitle":"Hyundai Tucson PRODUCTION 🇺🇸 USA Car Factory Manufacturing Process",
+        "description":" 2023 Skoda Octavia Production. Inside the Skoda car factory and CNC Production Machine. Assembly Line Inside mega Factory Skoda: Manufactory and CNC Robots. ",
+        "video":"https://www.youtube.com/embed/RrQt-eVW79w",
+        "image":"auto1.png",
+        "name":"Rajkot",
+        "imgfb":"facebook1.png",
+        "linkfb":"https://www.facebook.com",
+        "imgtw":"twitter.png",
+        "linktw":"https://www.twitter.com",
+        "imgcopy":"cp1.png",
+        "copylink":"https://www.youtube.com/watch?v=Ii7tq0l3xvI"
+        
+    }, {
+        "Id":3,
+        "subtitle":"Mercedes PRODUCTION - Germany CAR FACTORY",
+        "description":"PM Modi dedicated to the nation, Rajkot International Airport and multiple development projects worth over Rs 860 crores in Rajkot, Gujarat. PM Modi remarked that the government and the people have faced the crisis together and assured that those affected are being rehabilitated with the assistance of the state government.",
+        "video":"https://www.youtube.com/embed/RrQt-eVW79w",
+        "image":"auto3.png",
+        "name":"Rajkot",
+        "imgfb":"facebook1.png",
+        "linkfb":"https://www.facebook.com",
+        "imgtw":"twitter.png",
+        "linktw":"https://www.twitter.com",
+        "imgcopy":"cp1.png",
+        "copylink":"https://youtu.be/NmPrAsEXEB0"
+        
+    },
+    {
+        "Id":4,
+        "subtitle":"Skoda Octavia PRODUCTION 🚗 Car Factory MANUFACTURING Process ",
+        "description":"2023 Skoda Octavia Production. Inside the Skoda car factory and CNC Production Machine. Assembly Line Inside mega Factory Skoda: Manufactory and CNC Robots.",
+        "video":"https://www.youtube.com/embed/RrQt-eVW79w",
+        "image":"auto.png",
+        "name":"Rajkot",
+        "imgfb":"facebook1.png",
+        "linkfb":"https://www.facebook.com",
+        "imgtw":"twitter.png",
+        "linktw":"https://www.twitter.com",
+        "imgcopy":"cp1.png",
+        "copylink":"https://youtu.be/RrQt-eVW79w"
+        
+    },
+    {
+        "Id":5,
+        "subtitle":"BMW 5 Series PRODUCTION 🇩🇪 German Car Factory Manufacturing Process ",
+        "description":"Authorities in Gujarat Monday began evacuating thousands of people from vulnerable areas and closed schools and ports in coastal districts even as the worsening weather ahead of the landfall of Cyclone Biparjoy led to the death of one person in Rajkot.",
+        "video":"https://www.youtube.com/embed/RrQt-eVW79w",
+        "image":"auto3.png",
+        "name":"Rajkot",
+        "imgfb":"facebook1.png",
+        "linkfb":"https://www.facebook.com",
+        "imgtw":"twitter.png",
+        "linktw":"https://www.twitter.com",
+        "imgcopy":"cp1.png",
+        "copylink":"https://youtu.be/5TmaMQGWt8Q"
+        
+    }
+]
